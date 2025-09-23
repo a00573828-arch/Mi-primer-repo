@@ -4,3 +4,4 @@ Integrantes de mi equipo
  - Alejandro Becerra
  - Alvaro Ramirez 
   - DeepSeek
+- IA
