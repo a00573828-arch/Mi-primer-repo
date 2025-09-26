@@ -18,10 +18,12 @@ La falta de intervencion sostenible, debido al desconocimiento de posibildad de 
  - La falta de intervención sostenible es un problema que se genera cuando se desconoce las alternativas sostenibles hacia los problemas cotidianos. Lo que no permite llegar a un máximo aprovechamiento en todo el mundo.
 
 3. IDENTIFICACIÓN DE CAUSAS Y CONSECUENCIAS
+
 -----CAUSAS-----
    - Ausencia de conocimiento de su existencia 
    - Incredulidad del impacto postitivo
    - Falta de conocimientos aplicables
+
 -----CONSECUENCIAS-----
    - Conciencia acerca del impacto positivo en el medio ambiente y ambito personal
    - Iniciativa de cambio para un futuro sustentable
