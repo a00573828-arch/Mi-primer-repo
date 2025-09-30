@@ -1,0 +1,56 @@
+     1. Lluvia de ideas de soluciones
+
+Cada integrante propone al menos una solución posible al problema definido en la sesión anterior.
+Anoten todas las ideas en un documento compartido (o pizarrón).
+No descarten ninguna en esta fase, se busca cantidad y creatividad.
+Problema:  La contaminación y falta de conocimientos acerca de la sostenibilidad y la posibilidad de una sociedad más sostenible.
+
+1- Lo más importante es que las personas estén informadas de cómo pueden vivir una vida más sustentable y amigable para el medio ambiente. Proporcionar esta información mediante cualquier medio es muy útil para hacerle frente a nuestra problemática y trabajar con nuestro ODS.
+Folletos
+Páginas de internet
+Apps con tips/trucos ecológicos
+Apps con información acerca de lugares donde pueden reciclar cerca de donde viven.
+2- El cambio en la mentalidad de los ciudadanos en su estilo de vida es fundamental para el cumplimiento de la ODS. No puede haber un progreso si los habitantes de una zona/comunidad no cooperan entre ellos tanto en como se transportan, cuidado de zonas públicas, cuidado del medio ambiente que los rodean. Si bien gran parte de esta responsabilidad la llevan los líderes de estas comunidades es importante que todos aporten.
+La creación de un reglamento puede ser importante para conocer las limitantes y áreas de oportunidad en una zona
+La creación de una app la cual tenga noticias, información, y constantes actualizaciones de mejoras en la comunidad al igual de votaciones y juntas para mantener la unidad, comunicación y aportación de todos los habitantes de una comunidad
+3. - La accesibilidad de la información, así como plantear de una manera fácil de procesarla es clave. No se puede solucionar un problema, si la comunidad no sabe cómo resolverla, y mucho menos puede ser a largo plazo si no comprenden cómo funciona. 
+Hacer un menú e interfaz intuitivos.
+Procesar, interpretar y mostrar la información de una manera fácil de comprender.
+Hacer muy visual el programa para generar una mayor atención y retención de información.
+4. - Creación de planes energéticos e hídricos en zonas urbanas y rurales donde se muestren opciones de obtención, distribución y uso de energía eléctrica y de agua, con el fin de poder lograr objetivos y un entorno sostenible en el ámbito económico, social y ambiental. Dando acceso de estos planes a todas las personas que tengan necesidad de este o que conocen alguna zona que lo necesite.
+2. Selección de la idea base para el MVP
+Usen la técnica MoSCoW (Must, Should, Could, Won’t) para clasificar funcionalidades.
+Elijan las funcionalidades mínimas indispensables que debe tener el prototipo para demostrar el concepto principal.
+Asegúrense de que la idea elegida responda a:
+El ODS seleccionado.
+La población objetivo.
+Los criterios de éxito definidos en la sesión 2.
+
+
+
+
+
+
+MoSCoW
+Funcionalidades críticas y obligatorias:
+Registro e inicio de sesión seguro para habitantes de la comunidad.
+Noticias y comunicados oficiales de la comunidad.
+Sección de información sobre proyectos de sostenibilidad (ej. reciclaje, huertos comunitarios, energía renovable).
+Sistema de votaciones en línea para decisiones comunitarias.
+Notificaciones en tiempo real sobre emergencias o eventos importantes.
+Importantes, pero no imprescindibles en la primera versión:
+Calendario comunitario con próximas juntas, talleres y actividades.
+Espacio de foros o debates entre habitantes.
+Actualizaciones de avances en proyectos comunitarios con fotos, videos y métricas.
+Estadísticas básicas de participación ciudadana (ej. % de personas que votaron).
+Deseables, si hay recursos y tiempo:
+Chat directo entre vecinos con moderación.
+Gamificación: puntos o insignias por participación activa en la comunidad.
+Integración con redes sociales para difundir logros comunitarios.
+Módulo de educación ambiental con cursos o minijuegos.
+Quedan fuera del alcance inicial, pero podrían plantearse a futuro:
+Integración con sistemas de pago para donaciones o cuotas.
+Realidad aumentada para visualizar proyectos en el espacio comunitario.
+Inteligencia artificial para predecir necesidades de la comunidad.
+Conexión con plataformas gubernamentales externas.
+
