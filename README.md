@@ -1,7 +1,9 @@
-# Mi-primer-repo
-Este es un repo de prueba para saber  como funciona la aplicación
+# EcoBalance 
+Este es un repo que utilizamos Para La creacion de EcoBalance
 Integrantes de mi equipo
  - Alejandro Becerra
  - Alvaro Ramirez 
-  - DeepSeek
-- IA
+  - Alan paz
+  - Hugo Ascencio
+  - Jose Andres Perales 
+  
